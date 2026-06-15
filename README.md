@@ -21,7 +21,7 @@ bron: HTTP_requests.au3
 Verschillende includes komen uit het library van Autoit
 
 Updates
-Door een nieuw bestand genaamd “kill.txt” aan te maken in de dir van het script, dan word Topdesk_Hotkeys.exe en kan dan geupdate worden. Door kill.txt te hernoemen, word NHL_Hotkeys.exe weer gestart.
+Door een nieuw bestand genaamd “kill.txt” aan te maken in de dir van het script, dan word Topdesk_Hotkeys.exe en kan dan geupdate worden. Door kill.txt te hernoemen, word Topdesk_Hotkeys.exe weer gestart.
  
 Ini files
 
