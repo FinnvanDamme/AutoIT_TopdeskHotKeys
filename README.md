@@ -13,7 +13,7 @@ Word gebruikt door: Support
 Bestanden:  Check.exe, Topdesk_Hotkeys.exe
 Het programma start met Check.exe
 Deze controleert op dubbele instanties en of er op het moment van starten updates bezig zijn.
-Als bovenstaande criteria niet bestaan dan word NHL_Hotkeys.exe gestart
+Als bovenstaande criteria niet bestaan dan word Hotkeys.exe gestart
 
 Gebruikers kunnen de toets F3 gebruiken om verschillende functies uit te voeren.
 F3: http requests naar Topdesk sturen.
